@@ -28,7 +28,7 @@ In this repository, we have provided Matlab scripts for the following tasks:
 
 ** Note: We have used [fieldtrip](https://www.fieldtriptoolbox.org/) toolbox for basic pre-processing of MEG BCI dataset. As a dependency we recommend to download and add fieldtrip to your Matlab path if you want to reproduce our results. 
 
-** **https://ulster-my.sharepoint.com/:f:/g/personal/samanta-k_ulster_ac_uk/EjvzvkHvjhRIqJlQom7DmK0BifqarHMpTfrgDg0qnCI3TQ?e=eYgiyF**
+** https://ulster-my.sharepoint.com/:f:/g/personal/samanta-k_ulster_ac_uk/EjvzvkHvjhRIqJlQom7DmK0BifqarHMpTfrgDg0qnCI3TQ?e=pRZl84
 
 ***
 #### References:
